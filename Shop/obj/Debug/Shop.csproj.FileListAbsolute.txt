@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\user\source\repos\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\user\source\repos\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\user\source\repos\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Shop\Shop\obj\Debug\Shop.exe
+C:\Users\user\source\repos\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\user\source\repos\Shop\Shop\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\source\repos\Shop\Shop\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\source\repos\Shop\Shop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\Shop\Shop\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\source\repos\Shop\Shop\bin\Debug\Twilio.dll
+C:\Users\user\source\repos\Shop\Shop\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\user\source\repos\Shop\Shop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\Shop\Shop\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\user\source\repos\Shop\Shop\bin\Debug\Twilio.xml
+C:\Users\user\source\repos\Shop\Shop\obj\Debug\Shop.csproj.CopyComplete
